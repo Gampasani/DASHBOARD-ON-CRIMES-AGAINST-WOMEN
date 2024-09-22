@@ -11,8 +11,8 @@ This repository contains a comprehensive dashboard that presents statistical dat
 
 ## Data Source
 The data has been compiled from multiple sources, including government reports and verified datasets.
--**description.xlsx**: It contains description about the data.
--**CrimesOnWomenData.xlsx**: In this file contains actual data.
+ - **description.xlsx**: It contains description about the data.
+ - **CrimesOnWomenData.xlsx**: In this file contains actual data.
 
 ## Visualizations
 - **Interactive Map**: Shows state-wise distribution of cases.
