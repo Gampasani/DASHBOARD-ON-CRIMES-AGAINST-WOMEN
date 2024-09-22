@@ -1,5 +1,8 @@
 # Crimes Against Women in India Dashboard
 
+<img width="641" alt="image" src="https://github.com/user-attachments/assets/3cce32f2-08e5-4c2c-94e4-989b6701f76e">
+
+
 ## Overview
 This repository contains a comprehensive dashboard that presents statistical data on various crimes against women in India from 2010 to 2021. The data visualized includes dowry deaths, domestic violence cases, molestation incidents, among others.
 
